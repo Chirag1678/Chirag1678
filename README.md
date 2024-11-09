@@ -17,4 +17,5 @@ Exploring Prisma to level up my database management skills.
 Whether it’s building something from scratch or contributing to an existing project, I’m always up for exciting collaborations. Let’s connect!
 
 📫 How to Reach Me:
-Email: chiraggarg1708@gmail.com | LinkedIn: https://www.linkedin.com/in/chirag1678/ | LeetCode Profile: https://leetcode.com/u/Chirag1708/
+[Email](chiraggarg1708@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chirag1678/) | [LeetCode](https://leetcode.com/u/Chirag1708/)
+</div>
