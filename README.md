@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="300"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 
 - 🔭 I’m currently working as *Open Source Contributor*
