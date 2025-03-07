@@ -111,10 +111,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Chirag1678&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Chirag1678&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag1678&theme=midnight-purple" alt="Streak Stats"/>
+  <img width="400em" src="https://nirzak-streak-stats.vercel.app/?user=Chirag1678&theme=midnight-purple&hide_border=false" alt="Streak Stats"/>
 </td>
 </tr>
 <tr>
