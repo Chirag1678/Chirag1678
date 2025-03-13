@@ -1,6 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag1678&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag1678" /> </p>
-<p><img alt="coding" src="https://media.licdn.com/dms/image/v2/D5616AQGQyFAuIh9CnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720157427953?e=1736985600&v=beta&t=aGQ5rrJELiO07aKlFnDQPZ-bDAcyFmVwy3EAkD4GjJc"></p>
+<p><img alt="coding" src="https://drive.google.com/uc?export=view&id=1LYof6xrG1gwZz1Q4g0xSq7Z8ZW1ltnZM"></p>
 
 <br/>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Chirag Garg</h1>
