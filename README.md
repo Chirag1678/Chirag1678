@@ -119,7 +119,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag1678&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages Used"/>
+   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag1678&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Languages Used"/>
 </td>
 </tr>
 </table>
